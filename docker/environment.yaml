@@ -10,7 +10,7 @@ dependencies:
   - glib=2.68.4
   - pip=21.0
   - python=3.9.0
-  - pytorch>=2.2.2
+  - pytorch>=2.2.2,<2.4.0
   - torchvision>=0.16.2
   - pip:
     - absl-py==2.0.0

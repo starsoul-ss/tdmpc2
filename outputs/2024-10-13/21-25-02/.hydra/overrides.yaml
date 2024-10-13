@@ -1,0 +1,2 @@
+- task=dog-run
+- checkpoint=/home/disk1/liucx/tdmpc2/logs/dog-run/1/default/models/final.pt
