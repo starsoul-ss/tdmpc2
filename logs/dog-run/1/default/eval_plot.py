@@ -35,4 +35,5 @@ plt.ylabel('Episode Reward')
 plt.title('Episode Reward vs Step')
 plt.grid(True)
 plt.show()
+plt.savefig('1M_train.png')  # 保存图表为文件
 print("图表绘制完成。")
